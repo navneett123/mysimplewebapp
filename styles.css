@@ -22,6 +22,10 @@ body {
   transform: scale(1.1);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 
 h1 {
   color: #333;
