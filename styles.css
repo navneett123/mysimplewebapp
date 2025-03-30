@@ -13,6 +13,16 @@ body {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
 }
+
+.btn {
+  transition: transform 0.3s ease-in-out;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
+
+
 h1 {
   color: #333;
 }
